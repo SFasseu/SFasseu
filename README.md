@@ -1,4 +1,4 @@
-<h2 align="left">👋 Je suis Steve NOUBISSIE FASSEU, Ingénieur Logiciel et Formateur Web Full Stack, passionné par le développement et l'apport de solutions digitales innovantes</h2>
+<h2 align="left">👋 Je suis Steve FASSEU, Ingénieur Logiciel et Formateur Web Full Stack, passionné par le développement et l'apport de solutions digitales innovantes</h2>
 
 ###
 
